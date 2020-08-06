@@ -6,7 +6,7 @@
 
 <div align=center>
   
-  [![onerain92's github stats](https://github-readme-stats.vercel.app/api?username=onerain92)](https://github.com/anuraghazra/github-readme-stats)
+  [![onerain92's github stats](https://github-readme-stats.vercel.app/api?username=onerain92show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
   
 </div>
 
