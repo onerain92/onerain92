@@ -10,6 +10,12 @@
   
 </div>
 
+<div>
+  
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=onerain92&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+  
+</div>
+
 <div align=center>
 
 [![Gitbook](http://img.shields.io/badge/-Git%20book-black?style=flat&logo=github&link=https://app.gitbook.com/@onerain92/spaces)](https://app.gitbook.com/@onerain92/spaces) 
